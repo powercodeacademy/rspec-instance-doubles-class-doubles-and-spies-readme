@@ -1,7 +1,7 @@
 
 # RSpec: Instance Doubles, Class Doubles, and Spies (BookOrder & Bookstore Edition)
 
-Welcome to Lesson 18! In this lesson, you'll master **verifying doubles**—`instance_double`, `class_double`, and `object_double`—plus **spies**. These tools help you write safer, more robust, and more maintainable tests by ensuring your doubles match the real objects they're standing in for, and by letting you verify that methods were called as expected. All examples use a BookOrder/Bookstore domain for clarity and realism.
+In this lesson, you'll master **verifying doubles**—`instance_double`, `class_double`, and `object_double`—plus **spies**. These tools help you write safer, more robust, and more maintainable tests by ensuring your doubles match the real objects they're standing in for, and by letting you verify that methods were called as expected. All examples use a BookOrder/Bookstore domain for clarity and realism.
 
 ---
 
